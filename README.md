@@ -109,6 +109,9 @@ mvp/
 Every file cites the standard section that governs each decision, in comments at the decision point.
 If a number looks arbitrary, the citation next to it says where it came from.
 
+For a full section-by-section explanation of every screen and module, see
+[`../docs/06-mvp-walkthrough.md`](../docs/06-mvp-walkthrough.md).
+
 ---
 
 ## 4. How the data behaves
